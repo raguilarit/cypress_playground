@@ -1,0 +1,13 @@
+#ignore all node dependecies
+node_modules
+
+#ignore all videos and screenshots from the tests
+cypress/videos
+cypress/screenshots
+
+coverage
+.DS_Store
+.tmp
+.sass-cache
+npm-debug.log
+

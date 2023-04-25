@@ -1,0 +1,13 @@
+{
+  "name": "Cypress",
+  "version": "1.0.0",
+  "description": "Cypress Playground",
+  "main": "index.js",
+  "repository": "https://github.com/raguilarit/cypress_playground",
+  "author": "Ricardo Aguilar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cypress": "^12.10.0"
+  }
+}
